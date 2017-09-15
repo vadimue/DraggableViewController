@@ -1,3 +1,3 @@
 Animated transition between view controllers with interactive transition via UIPercentDrivenInteractiveTransition
 
-![](Screens/screencast.gif)
+<img src="Screens/screencast.gif" width="300">
